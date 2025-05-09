@@ -12,17 +12,6 @@ It uncovers content trends, genre patterns, country-wise distribution, and relea
 - 🎞️ Genre and content-type heatmap
 - 📂 All graphs saved in high resolution in `/graphs` folder
 
----
-
-## 📁 Folder Structure
-
-
-Netflix Project/
-│      Insights.txt
-├── netflix_analysis.py        # Python file with all analysis & plots
-├── netflix_titles.csv         # Netflix dataset
-├── README.md                  # Documentation (this file)
-├── /graphs                    # Auto-created folder for charts
 
 
 # Install required libraries
